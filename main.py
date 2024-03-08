@@ -7,3 +7,4 @@ from item import Item
 item1 = Item("MyItem",100,5)
 
 print(item1.name)
+print("hello world")
